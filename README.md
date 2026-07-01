@@ -1,7 +1,7 @@
 # adls-list-assignment
 
 # Details
-This is a take-home assignment meant to evaluate ability to work with Python, Github, and Azure Blob Storage.
+This is an after application take-home assignment meant to evaluate ability to work with Python, Github, and Azure Blob Storage.
 
 # Objectives
 1. Set up github environment and workflows
